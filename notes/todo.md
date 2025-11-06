@@ -1,0 +1,2 @@
+- Add example: deploy via Endless UI + notes
+- Record gas / UX feedback
