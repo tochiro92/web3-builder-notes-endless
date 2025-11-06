@@ -1,0 +1,3 @@
+- [x] Join Discord
+- [ ] Apply Genesis role
+- [ ] Deploy token (UI)
