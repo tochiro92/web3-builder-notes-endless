@@ -1,0 +1,6 @@
+{
+  "name": "web3-builder-notes",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": { "viem": "^2.0.0" }
+}
